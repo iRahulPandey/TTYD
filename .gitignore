@@ -1,0 +1,7 @@
+__pycache__
+cache
+core/__pycache__
+exports
+ui/__pycache__
+utils/__pycache__
+pandasai.log

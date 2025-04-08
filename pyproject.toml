@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ttyd"
+version = "0.1.0"
+description = ""
+authors = ["Rahul Pandey <rpandey1901@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = ">=1.30.0"
+pandasai = "2.2.14"
+numpy = "1.26.4"
+pandas = "1.5.3"
+plotly = ">=5.18.0"
+langchain = ">=0.1.0"
+langchain-community = ">=0.0.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
