@@ -1,4 +1,4 @@
-# AI Data Analyst
+# TTYD - Talk To Your Data
 
 A Streamlit application that enables natural language analysis of CSV data using PandasAI, LangChain, and Ollama.
 
